@@ -1,0 +1,8 @@
+.cache
+node_modules
+.*
+!.gitignore
+package-lock.json
+yarn.lock
+public
+notes
