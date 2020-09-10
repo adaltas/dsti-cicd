@@ -1,6 +1,6 @@
 # Labs
 
-CI/CD
+Continuous Integration & Continuous Delivery (Deployment) (CI/CD)
 
 ## 1. CI part - using Travis CI
 
@@ -14,7 +14,7 @@ CI/CD
 language: node_js
 node_js:
 - '12'
-- '13'
+- '14'
 script:
 - echo 'Starting'
 - npm install
